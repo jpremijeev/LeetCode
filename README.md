@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0196-delete-duplicate-emails](https://github.com/jpremijeev/LeetCode/tree/master/0196-delete-duplicate-emails) |
 | [0584-find-customer-referee](https://github.com/jpremijeev/LeetCode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/jpremijeev/LeetCode/tree/master/0595-big-countries) |
+| [1258-article-views-i](https://github.com/jpremijeev/LeetCode/tree/master/1258-article-views-i) |
 | [1664-find-users-with-valid-e-mails](https://github.com/jpremijeev/LeetCode/tree/master/1664-find-users-with-valid-e-mails) |
 | [1908-recyclable-and-low-fat-products](https://github.com/jpremijeev/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/jpremijeev/LeetCode/tree/master/2127-employees-whose-manager-left-the-company) |

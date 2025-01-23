@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1258-article-views-i](https://github.com/jpremijeev/LeetCode/tree/master/1258-article-views-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/jpremijeev/LeetCode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1664-find-users-with-valid-e-mails](https://github.com/jpremijeev/LeetCode/tree/master/1664-find-users-with-valid-e-mails) |
+| [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/jpremijeev/LeetCode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1827-invalid-tweets](https://github.com/jpremijeev/LeetCode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/jpremijeev/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/jpremijeev/LeetCode/tree/master/2127-employees-whose-manager-left-the-company) |
